@@ -3,8 +3,11 @@
 #include "qgame_core/qplayer.hpp"
 
 /*
+
 Dveloper: Mohamed Naamane
+
 Contact: mrnmnwork@gmail.com
+
 */
 
 int main(int argc, char** argv) try{
