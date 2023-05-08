@@ -7,15 +7,18 @@ Comparaison d’approches algorithmiques
 I use oop and diffrent c++ standard containers for this solution.
 
 - COMPLIE WITH G++ :
-cd build
-g++ -c ../main.cpp ../qgame_src/*.cpp 
-g++ *.o -o qgame
+_
+-1 cd build
+-2 g++ -c ../main.cpp ../qgame_src/*.cpp 
+3 - g++ *.o -o qgame
+_
 
-Run:
-qgame H R H R
+- Run:
+-
+- qgame H R H R
 
 
-PROJECT:
+- PROJECT:
 
 
 
