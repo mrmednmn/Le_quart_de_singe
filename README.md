@@ -4,7 +4,10 @@ Comparaison d’approches algorithmiques
 
 – Le quart de singe
 –
-I use oop and diffrent c++ standard containers for this solution. 
+I use oop and diffrent c++ standard containers for this solution.
+
+PROJECT:
+
 
 
 `Le but du projet est de d´evelopper un logiciel permettant `a un ensemble de joueurs de disputer une partie de quart
