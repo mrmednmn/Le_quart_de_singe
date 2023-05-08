@@ -18,6 +18,7 @@ I use oop and diffrent c++ standard containers for this solution.
 
 . qgame H R H R
 
+_Contact: mrnmnwork@gmail.com
 
 
 - PROJECT:
