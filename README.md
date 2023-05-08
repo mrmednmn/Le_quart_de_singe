@@ -10,7 +10,7 @@ I use oop and diffrent c++ standard containers for this solution.
 _
 1. cd build
 2. g++ -c ../main.cpp ../qgame_src/*.cpp 
-3. - g++ *.o -o qgame
+3. g++ *.o -o qgame
 
 
 
