@@ -13,14 +13,12 @@ _
 3. g++ *.o -o qgame
 
 
-
 - Run:
-
 . qgame H R H R
 
 
 
--PROJECT:
+- PROJECT:
 
 
 
