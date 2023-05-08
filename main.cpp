@@ -2,7 +2,10 @@
 #include "qgame_core/qfileHandler.hpp"
 #include "qgame_core/qplayer.hpp"
 
-
+/*
+Dveloper: Mohamed Naamane
+Contact: mrnmnwork@gmail.com
+*/
 
 int main(int argc, char** argv) try{
 	if (argc < 2) throw std::runtime_error("Enter at least 2 players.");
